@@ -1,0 +1,10 @@
+#Mon Feb 17 00:07:42 CET 2020
+ao_strength=8.0
+bloom_strength=2.0
+cloudreflIT=16
+Godrays=true
+Godrays_Density=4.6
+light_brightness=0.7
+waterA=1.5
+waterCB=1.6
+waves_amplitude=1.45
